@@ -1,0 +1,10 @@
+.Post_Component {
+    width: 70%;
+    height: 100vh;
+    display: flex;
+    flex-wrap: wrap;
+    position: relative;
+    top: 0%;
+    left: 50%;
+    transform: translate(-40%, 0%);
+}
